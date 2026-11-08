@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">さかなローマ字クイズ</string>
+    <string name="title_activity_main">さかなローマ字クイズ</string>
+    <string name="package_name">jp.example.sakanaromaji</string>
+    <string name="custom_url_scheme">jp.example.sakanaromaji</string>
+</resources>
